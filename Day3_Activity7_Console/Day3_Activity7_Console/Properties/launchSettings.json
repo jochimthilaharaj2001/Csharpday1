@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Day3_Activity7_Console": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
